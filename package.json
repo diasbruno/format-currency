@@ -1,0 +1,27 @@
+{
+  "name": "format-currency",
+  "version": "0.0.1",
+  "description": "Format currency to string.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasbruno/format-currency.git"
+  },
+  "keywords": [
+    "currency",
+    "format"
+  ],
+  "author": "Bruno Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diasbruno/format-currency/issues"
+  },
+  "homepage": "https://github.com/diasbruno/format-currency#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "should": "^13.2.3"
+  }
+}
